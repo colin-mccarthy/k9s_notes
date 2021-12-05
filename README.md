@@ -26,3 +26,7 @@ tail
 ```
 0
 ```
+
+## resources
+
+https://k9scli.io/topics/commands/
