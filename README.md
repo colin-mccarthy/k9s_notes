@@ -31,6 +31,8 @@ tail
 
 https://k9scli.io/topics/commands/
 
+https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f
+
 ```
 esc
 ```
