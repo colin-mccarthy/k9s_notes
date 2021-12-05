@@ -12,14 +12,17 @@ k9s -n harbor
 : pods harbor
 ```
 
+logs
 ```
 l
 ```
 
+5 min
 ```
 3
 ```
 
+tail
 ```
 0
 ```
